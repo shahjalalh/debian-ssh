@@ -1,6 +1,6 @@
 # Debian with SSH installed
 
-https://hub.docker.com/repository/docker/shahjalalh/debian-ssh
+Repo in docker hub: https://hub.docker.com/repository/docker/shahjalalh/debian-ssh
 
 ```
 $ docker build -t shahjalalh/debian-ssh:1.0 .
