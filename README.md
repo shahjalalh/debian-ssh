@@ -2,6 +2,8 @@
 
 Repo in docker hub: https://hub.docker.com/repository/docker/shahjalalh/debian-ssh
 
+**username**: shahjalal **password**: 123456
+
 ```
 $ docker build -t shahjalalh/debian-ssh:1.0 .
 
